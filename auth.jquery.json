@@ -1,0 +1,32 @@
+{
+	"name": "auth",
+	"title": "jQuery Authentication Plugin",
+	"description": "jQuery Authentication Plugin",
+	"keywords": ["facebook", "google", "twitter", "pinterest", "tumblr", "oauth"],
+	"version": "0.0.1",
+	"author": {
+		"name": "Grizzly GmbH",
+		"url": "http://grizzly.cc"
+	},
+	"maintainers": [
+		{
+			"name": "Stefan Mayr",
+			"email": "st.mayr@grizzly.cc",
+			"url": "http://grizzly.cc"
+		}
+	],
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+		}
+	],
+	"bugs": "https://github.com/grizzly/jquery.auth/issues",
+	"homepage": "https://github.com/grizzly/jquery.auth/",
+	"docs": "https://github.com/grizzly/jquery.auth/",
+	"download": "https://github.com/grizzly/jquery.auth/archive/master.zip",
+	"demo": "http://jquery.grizzly.cc/auth/",
+	"dependencies": {
+		"jquery": ">=1.5"
+	}
+}
